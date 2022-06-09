@@ -1,0 +1,11 @@
+Package: GmptzCurve
+Type: Package
+Title: Gompertz Curve Fitting
+Version: 0.1.0
+Author: ARNAB ROY , DEBARGHYA BAUL.
+Maintainer: Arnab Roy<arnabroy7640@gmail.com>
+Description: The function gmptz() fits the Gompertz Curve in Time Series Data along with estimates of the parameters and predicted value.
+License: GPL-3
+Encoding: UTF-8
+LazyData: true
+RoxygenNote: 7.1.2
